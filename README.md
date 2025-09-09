@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello good people. 
+This is my first time using Github. I want to learn how to be a successful UX/UI Designer. 
++ Any suggestions are welcomed, 😊 🫂 🙏 😊 🫂 
 
 <!--
 **k1dd0padd/k1dd0padd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
++ bye for now.
